@@ -142,9 +142,10 @@ git reset -- hard <- commit hash ->
 ***
 
 
-#### 
+#### Tagging
 ```
-
+git tag -a v1.0 -m "First Release"
+git tag
 ```
 ***
 
