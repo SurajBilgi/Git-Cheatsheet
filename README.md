@@ -136,6 +136,7 @@ Case 3 : commited changes (for many commits)
 
 git reset <- commit hash ->
 
+# get commit hash code from > git logs 
 git reset -- hard <- commit hash ->
 ```
 ***
